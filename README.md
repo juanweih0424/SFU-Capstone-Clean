@@ -79,4 +79,4 @@ The `public/` folder includes:
 
 https://juanweih0424.github.io/SFU-Capstone-Clean/
 
-# Note: API key has expired and is now free trial so 7-day forecasting becomes 3-day
+## Note: API key has expired and is now free trial so 7-day forecasting becomes 3-day AND I have removed source data from the directory since it creates problems with deploying the github pages
