@@ -1,0 +1,826 @@
+Year,GEO,Population,Province
+1950,Alberta,919744,AB
+1950,British Columbia,1139195,BC
+1950,Canada,13703500,CA
+1950,Manitoba,758813,MB
+1950,New Brunswick,504250,NB
+1950,Newfoundland and Labrador,353072,NL
+1950,Nova Scotia,627142,NS
+1950,Ontario,4501185,ON
+1950,Quebec,3965725,QC
+1950,Saskatchewan,813432,SK
+1950,Yukon,8778,YT
+1951,Alberta,939834,AB
+1951,British Columbia,1164661,BC
+1951,Canada,14005000,CA
+1951,Manitoba,775444,MB
+1951,New Brunswick,514805,NB
+1951,Newfoundland and Labrador,360863,NL
+1951,Nova Scotia,640398,NS
+1951,Ontario,4603440,ON
+1951,Quebec,4052052,QC
+1951,Saskatchewan,830152,SK
+1951,Yukon,8953,YT
+1952,Alberta,971500,AB
+1952,British Columbia,1204500,BC
+1952,Canada,14436750,CA
+1952,Manitoba,796000,MB
+1952,New Brunswick,525250,NB
+1952,Newfoundland and Labrador,372750,NL
+1952,Nova Scotia,652250,NS
+1952,Ontario,4779250,ON
+1952,Quebec,4167750,QC
+1952,Saskatchewan,842250,SK
+1952,Yukon,9000,YT
+1953,Alberta,1010250,AB
+1953,British Columbia,1248250,BC
+1953,Canada,14833000,CA
+1953,Manitoba,808500,MB
+1953,New Brunswick,532500,NB
+1953,Newfoundland and Labrador,383000,NL
+1953,Nova Scotia,663250,NS
+1953,Ontario,4935250,ON
+1953,Quebec,4267000,QC
+1953,Saskatchewan,859000,SK
+1953,Yukon,9000,YT
+1954,Alberta,1054250,AB
+1954,British Columbia,1294000,BC
+1954,Canada,15269500,CA
+1954,Manitoba,822500,MB
+1954,New Brunswick,539750,NB
+1954,Newfoundland and Labrador,394500,NL
+1954,Nova Scotia,672000,NS
+1954,Ontario,5108250,ON
+1954,Quebec,4385000,QC
+1954,Saskatchewan,871750,SK
+1954,Yukon,9750,YT
+1955,Alberta,1089500,AB
+1955,British Columbia,1341500,BC
+1955,Canada,15681250,CA
+1955,Manitoba,838750,MB
+1955,New Brunswick,547000,NB
+1955,Newfoundland and Labrador,405500,NL
+1955,Nova Scotia,682750,NS
+1955,Ontario,5258250,ON
+1955,Quebec,4510750,QC
+1955,Saskatchewan,878250,SK
+1955,Yukon,11250,YT
+1956,Alberta,1122250,AB
+1956,British Columbia,1399000,BC
+1956,Canada,16070250,CA
+1956,Manitoba,848750,MB
+1956,New Brunswick,554500,NB
+1956,Newfoundland and Labrador,415000,NL
+1956,Nova Scotia,693250,NS
+1956,Ontario,5403000,ON
+1956,Quebec,4624750,QC
+1956,Saskatchewan,879750,SK
+1956,Yukon,12000,YT
+1957,Alberta,1161250,AB
+1957,British Columbia,1479500,BC
+1957,Canada,16579500,CA
+1957,Manitoba,858250,MB
+1957,New Brunswick,561500,NB
+1957,Newfoundland and Labrador,423500,NL
+1957,Nova Scotia,699000,NS
+1957,Ontario,5624750,ON
+1957,Quebec,4762500,QC
+1957,Saskatchewan,878750,SK
+1957,Yukon,12250,YT
+1958,Alberta,1205250,AB
+1958,British Columbia,1536000,BC
+1958,Canada,17062250,CA
+1958,Manitoba,874500,MB
+1958,New Brunswick,570500,NB
+1958,Newfoundland and Labrador,431500,NL
+1958,Nova Scotia,708750,NS
+1958,Ontario,5814250,ON
+1958,Quebec,4897500,QC
+1958,Saskatchewan,891000,SK
+1958,Yukon,13000,YT
+1959,Alberta,1247250,AB
+1959,British Columbia,1567000,BC
+1959,Canada,17467500,CA
+1959,Manitoba,889750,MB
+1959,New Brunswick,581000,NB
+1959,Newfoundland and Labrador,440000,NL
+1959,Nova Scotia,719000,NS
+1959,Ontario,5962500,ON
+1959,Quebec,5019750,QC
+1959,Saskatchewan,905750,SK
+1959,Yukon,13000,YT
+1960,Alberta,1289750,AB
+1960,British Columbia,1601000,BC
+1960,Canada,17855250,CA
+1960,Manitoba,905500,MB
+1960,New Brunswick,588000,NB
+1960,Newfoundland and Labrador,448250,NL
+1960,Nova Scotia,726500,NS
+1960,Ontario,6105500,ON
+1960,Quebec,5137500,QC
+1960,Saskatchewan,914250,SK
+1960,Yukon,14000,YT
+1961,Alberta,1330500,AB
+1961,British Columbia,1629750,BC
+1961,Canada,18224500,CA
+1961,Manitoba,921250,MB
+1961,New Brunswick,597000,NB
+1961,Newfoundland and Labrador,457750,NL
+1961,Nova Scotia,736250,NS
+1961,Ontario,6231000,ON
+1961,Quebec,5254500,QC
+1961,Saskatchewan,924000,SK
+1961,Yukon,14500,YT
+1962,Alberta,1368500,AB
+1962,British Columbia,1660000,BC
+1962,Canada,18570750,CA
+1962,Manitoba,935000,MB
+1962,New Brunswick,604500,NB
+1962,Newfoundland and Labrador,467500,NL
+1962,Nova Scotia,745000,NS
+1962,Ontario,6347500,ON
+1962,Quebec,5367000,QC
+1962,Saskatchewan,929250,SK
+1962,Yukon,15000,YT
+1963,Alberta,1402500,AB
+1963,British Columbia,1699500,BC
+1963,Canada,18919000,CA
+1963,Manitoba,948500,MB
+1963,New Brunswick,608250,NB
+1963,Newfoundland and Labrador,475750,NL
+1963,Nova Scotia,749750,NS
+1963,Ontario,6478500,ON
+1963,Quebec,5476250,QC
+1963,Saskatchewan,931500,SK
+1963,Yukon,15000,YT
+1964,Alberta,1427750,AB
+1964,British Columbia,1745000,BC
+1964,Canada,19277250,CA
+1964,Manitoba,958250,MB
+1964,New Brunswick,610750,NB
+1964,Newfoundland and Labrador,482750,NL
+1964,Nova Scotia,754000,NS
+1964,Ontario,6626750,ON
+1964,Quebec,5580250,QC
+1964,Saskatchewan,941000,SK
+1964,Yukon,15000,YT
+1965,Alberta,1448000,AB
+1965,British Columbia,1800000,BC
+1965,Canada,19633500,CA
+1965,Manitoba,963500,MB
+1965,New Brunswick,614500,NB
+1965,Newfoundland and Labrador,487000,NL
+1965,Nova Scotia,755000,NS
+1965,Ontario,6783250,ON
+1965,Quebec,5681500,QC
+1965,Saskatchewan,949500,SK
+1965,Yukon,14750,YT
+1966,Alberta,1462500,AB
+1966,British Columbia,1873750,BC
+1966,Canada,19997500,CA
+1966,Manitoba,961750,MB
+1966,New Brunswick,616500,NB
+1966,Newfoundland and Labrador,493000,NL
+1966,Nova Scotia,755500,NS
+1966,Ontario,6954000,ON
+1966,Quebec,5774250,QC
+1966,Saskatchewan,954750,SK
+1966,Yukon,14500,YT
+1967,Alberta,1488250,AB
+1967,British Columbia,1945750,BC
+1967,Canada,20363750,CA
+1967,Manitoba,962250,MB
+1967,New Brunswick,620000,NB
+1967,Newfoundland and Labrador,499000,NL
+1967,Nova Scotia,759500,NS
+1967,Ontario,7121750,ON
+1967,Quebec,5857500,QC
+1967,Saskatchewan,956750,SK
+1967,Yukon,15000,YT
+1968,Alberta,1522750,AB
+1968,British Columbia,2003250,BC
+1968,Canada,20692000,CA
+1968,Manitoba,970000,MB
+1968,New Brunswick,625250,NB
+1968,Newfoundland and Labrador,506000,NL
+1968,Nova Scotia,767000,NS
+1968,Ontario,7257750,ON
+1968,Quebec,5924500,QC
+1968,Saskatchewan,959750,SK
+1968,Yukon,15500,YT
+1969,Alberta,1558000,AB
+1969,British Columbia,2060250,BC
+1969,Canada,20994250,CA
+1969,Manitoba,977500,MB
+1969,New Brunswick,627500,NB
+1969,Newfoundland and Labrador,513750,NL
+1969,Nova Scotia,775000,NS
+1969,Ontario,7385250,ON
+1969,Quebec,5981000,QC
+1969,Saskatchewan,957750,SK
+1969,Yukon,16000,YT
+1970,Alberta,1593000,AB
+1970,British Columbia,2127750,BC
+1970,Canada,21287500,CA
+1970,Manitoba,981250,MB
+1970,New Brunswick,626750,NB
+1970,Newfoundland and Labrador,517250,NL
+1970,Nova Scotia,781500,NS
+1970,Ontario,7548750,ON
+1970,Quebec,6010750,QC
+1970,Saskatchewan,940750,SK
+1970,Yukon,17000,YT
+1971,Alberta,1645089,AB
+1971,British Columbia,2211280,BC
+1971,Canada,21747319,CA
+1971,Manitoba,991958,MB
+1971,New Brunswick,637547,NB
+1971,Newfoundland and Labrador,526331,NL
+1971,Nova Scotia,792274,NS
+1971,Ontario,7767567,ON
+1971,Quebec,6081106,QC
+1971,Saskatchewan,928275,SK
+1971,Yukon,18613,YT
+1972,Alberta,1691588,AB
+1972,British Columbia,2297348,BC
+1972,Canada,22187095,CA
+1972,Manitoba,1000587,MB
+1972,New Brunswick,648586,NB
+1972,Newfoundland and Labrador,538425,NL
+1972,Nova Scotia,802157,NS
+1972,Ontario,7947178,ON
+1972,Quebec,6168675,QC
+1972,Saskatchewan,920467,SK
+1972,Yukon,20074,YT
+1973,Alberta,1722375,AB
+1973,British Columbia,2360797,BC
+1973,Canada,22453742,CA
+1973,Manitoba,1005965,MB
+1973,New Brunswick,655909,NB
+1973,Newfoundland and Labrador,544822,NL
+1973,Nova Scotia,811262,NS
+1973,Ontario,8057794,ON
+1973,Quebec,6207238,QC
+1973,Saskatchewan,911644,SK
+1973,Yukon,20951,YT
+1974,Alberta,1752854,AB
+1974,British Columbia,2434720,BC
+1974,Canada,22772043,CA
+1974,Manitoba,1016226,MB
+1974,New Brunswick,664456,NB
+1974,Newfoundland and Labrador,548901,NL
+1974,Nova Scotia,818261,NS
+1974,Ontario,8189190,ON
+1974,Quebec,6261372,QC
+1974,Saskatchewan,908116,SK
+1974,Yukon,21068,YT
+1975,Alberta,1802853,AB
+1975,British Columbia,2494629,BC
+1975,Canada,23103010,CA
+1975,Manitoba,1023105,MB
+1975,New Brunswick,676037,NB
+1975,Newfoundland and Labrador,555594,NL
+1975,Nova Scotia,826194,NS
+1975,Ontario,8304342,ON
+1975,Quebec,6322332,QC
+1975,Saskatchewan,915819,SK
+1975,Yukon,21848,YT
+1976,Alberta,1864399,AB
+1976,British Columbia,2531737,BC
+1976,Canada,23414354,CA
+1976,Manitoba,1030789,MB
+1976,New Brunswick,688276,NB
+1976,Newfoundland and Labrador,561778,NL
+1976,Nova Scotia,834812,NS
+1976,Ontario,8401757,ON
+1976,Quebec,6385255,QC
+1976,Saskatchewan,930528,SK
+1976,Yukon,22368,YT
+1977,Alberta,1942192,AB
+1977,British Columbia,2567936,BC
+1977,Canada,23693935,CA
+1977,Manitoba,1036468,MB
+1977,New Brunswick,694403,NB
+1977,Newfoundland and Labrador,564767,NL
+1977,Nova Scotia,839945,NS
+1977,Ontario,8493530,ON
+1977,Quebec,6425092,QC
+1977,Saskatchewan,942943,SK
+1977,Yukon,22445,YT
+1978,Alberta,2017090,AB
+1978,British Columbia,2611636,BC
+1978,Canada,23935460,CA
+1978,Manitoba,1039574,MB
+1978,New Brunswick,698544,NB
+1978,Newfoundland and Labrador,567177,NL
+1978,Nova Scotia,844466,NS
+1978,Ontario,8578040,ON
+1978,Quebec,6437989,QC
+1978,Saskatchewan,951505,SK
+1978,Yukon,22945,YT
+1979,Alberta,2092557,AB
+1979,British Columbia,2662293,BC
+1979,Canada,24170164,CA
+1979,Manitoba,1036582,MB
+1979,New Brunswick,701924,NB
+1979,Newfoundland and Labrador,569598,NL
+1979,Nova Scotia,848879,NS
+1979,Ontario,8648592,ON
+1979,Quebec,6459979,QC
+1979,Saskatchewan,958596,SK
+1979,Yukon,22924,YT
+1980,Alberta,2184262,AB
+1980,British Columbia,2737538,BC
+1980,Canada,24470715,CA
+1980,Manitoba,1033998,MB
+1980,New Brunswick,704867,NB
+1980,Newfoundland and Labrador,572198,NL
+1980,Nova Scotia,852126,NS
+1980,Ontario,8727944,ON
+1980,Quebec,6498485,QC
+1980,Saskatchewan,966544,SK
+1980,Yukon,23027,YT
+1981,Alberta,2282738,AB
+1981,British Columbia,2816980,BC
+1981,Canada,24784554,CA
+1981,Manitoba,1035375,MB
+1981,New Brunswick,705612,NB
+1981,Newfoundland and Labrador,574549,NL
+1981,Nova Scotia,854902,NS
+1981,Ontario,8804010,ON
+1981,Quebec,6540880,QC
+1981,Saskatchewan,975036,SK
+1981,Yukon,23707,YT
+1982,Alberta,2359433,AB
+1982,British Columbia,2871303,BC
+1982,Canada,25082944,CA
+1982,Manitoba,1044148,MB
+1982,New Brunswick,707284,NB
+1982,Newfoundland and Labrador,574082,NL
+1982,Nova Scotia,859088,NS
+1982,Ontario,8908938,ON
+1982,Quebec,6575840,QC
+1982,Saskatchewan,985876,SK
+1982,Yukon,24465,YT
+1983,Alberta,2389818,AB
+1983,British Columbia,2904171,BC
+1983,Canada,25335951,CA
+1983,Manitoba,1057957,MB
+1983,New Brunswick,713683,NB
+1983,Newfoundland and Labrador,578276,NL
+1983,Nova Scotia,867586,NS
+1983,Ontario,9026909,ON
+1983,Quebec,6598969,QC
+1983,Saskatchewan,999334,SK
+1983,Yukon,23741,YT
+1984,Alberta,2394104,AB
+1984,British Columbia,2941539,BC
+1984,Canada,25576735,CA
+1984,Manitoba,1070580,MB
+1984,New Brunswick,719514,NB
+1984,Newfoundland and Labrador,579697,NL
+1984,Nova Scotia,877198,NS
+1984,Ontario,9152063,ON
+1984,Quebec,6626718,QC
+1984,Saskatchewan,1012931,SK
+1984,Yukon,23809,YT
+1985,Alberta,2402201,AB
+1985,British Columbia,2972265,BC
+1985,Canada,25813200,CA
+1985,Manitoba,1081713,MB
+1985,New Brunswick,722895,NB
+1985,Newfoundland and Labrador,578856,NL
+1985,Nova Scotia,885198,NS
+1985,Ontario,9279890,ON
+1985,Quebec,6660817,QC
+1985,Saskatchewan,1023575,SK
+1985,Yukon,24308,YT
+1986,Alberta,2425855,AB
+1986,British Columbia,3000682,BC
+1986,Canada,26067486,CA
+1986,Manitoba,1090618,MB
+1986,New Brunswick,724758,NB
+1986,Newfoundland and Labrador,576514,NL
+1986,Nova Scotia,888939,NS
+1986,Ontario,9421117,ON
+1986,Quebec,6703313,QC
+1986,Saskatchewan,1028305,SK
+1986,Yukon,24484,YT
+1987,Alberta,2437612,AB
+1987,British Columbia,3043088,BC
+1987,Canada,26397870,CA
+1987,Manitoba,1097076,MB
+1987,New Brunswick,726950,NB
+1987,Newfoundland and Labrador,575181,NL
+1987,Nova Scotia,892881,NS
+1987,Ontario,9612540,ON
+1987,Quebec,6772196,QC
+1987,Saskatchewan,1031442,SK
+1987,Yukon,25506,YT
+1988,Alberta,2453974,AB
+1988,British Columbia,3108064,BC
+1988,Canada,26751474,CA
+1988,Manitoba,1101103,MB
+1988,New Brunswick,729875,NB
+1988,Newfoundland and Labrador,574770,NL
+1988,Nova Scotia,896729,NS
+1988,Ontario,9816491,ON
+1988,Quebec,6831143,QC
+1988,Saskatchewan,1027949,SK
+1988,Yukon,26368,YT
+1989,Alberta,2493023,AB
+1989,British Columbia,3189665,BC
+1989,Canada,27214902,CA
+1989,Manitoba,1102632,MB
+1989,New Brunswick,734454,NB
+1989,Newfoundland and Labrador,576057,NL
+1989,Nova Scotia,903024,NS
+1989,Ontario,10068044,ON
+1989,Quebec,6914476,QC
+1989,Saskatchewan,1019320,SK
+1989,Yukon,27079,YT
+1990,Alberta,2540902,AB
+1990,British Columbia,3282328,BC
+1990,Canada,27632360,CA
+1990,Manitoba,1104302,MB
+1990,New Brunswick,739547,NB
+1990,Newfoundland and Labrador,576982,NL
+1990,Nova Scotia,909510,NS
+1990,Ontario,10267345,ON
+1990,Quebec,6986226,QC
+1990,Saskatchewan,1008330,SK
+1990,Yukon,27852,YT
+1991,Alberta,2587477,AB
+1991,British Columbia,3367589,BC
+1991,Canada,27987111,CA
+1991,Manitoba,1108239,MB
+1991,New Brunswick,744716,NB
+1991,Newfoundland and Labrador,578742,NL
+1991,Nova Scotia,914386,NS
+1991,Ontario,10409479,ON
+1991,Quebec,7054592,QC
+1991,Saskatchewan,1002296,SK
+1991,Yukon,28682,YT
+1992,Alberta,2627162,AB
+1992,British Columbia,3459366,BC
+1992,Canada,28324154,CA
+1992,Manitoba,1111732,MB
+1992,New Brunswick,747418,NB
+1992,Newfoundland and Labrador,579730,NL
+1992,Nova Scotia,918982,NS
+1992,Ontario,10549810,ON
+1992,Quebec,7104606,QC
+1992,Saskatchewan,1002730,SK
+1992,Yukon,29717,YT
+1993,Alberta,2663774,AB
+1993,British Columbia,3558491,BC
+1993,Canada,28651462,CA
+1993,Manitoba,1116489,MB
+1993,New Brunswick,748620,NB
+1993,Newfoundland and Labrador,579840,NL
+1993,Nova Scotia,923593,NS
+1993,Ontario,10676423,ON
+1993,Quebec,7153278,QC
+1993,Saskatchewan,1005599,SK
+1993,Yukon,30107,YT
+1994,Alberta,2696102,AB
+1994,British Columbia,3664473,BC
+1994,Canada,28960064,CA
+1994,Manitoba,1121910,MB
+1994,New Brunswick,749965,NB
+1994,Newfoundland and Labrador,574833,NL
+1994,Nova Scotia,926652,NS
+1994,Ontario,10800283,ON
+1994,Quebec,7189008,QC
+1994,Saskatchewan,1009113,SK
+1994,Yukon,29660,YT
+1995,Alberta,2730105,AB
+1995,British Columbia,3766198,BC
+1995,Canada,29263007,CA
+1995,Manitoba,1127720,MB
+1995,New Brunswick,750907,NB
+1995,Newfoundland and Labrador,568009,NL
+1995,Nova Scotia,928296,NS
+1995,Ontario,10931434,ON
+1995,Quebec,7215800,QC
+1995,Saskatchewan,1013529,SK
+1995,Yukon,30336,YT
+1996,Alberta,2770298,AB
+1996,British Columbia,3862540,BC
+1996,Canada,29569874,CA
+1996,Manitoba,1132782,MB
+1996,New Brunswick,752062,NB
+1996,Newfoundland and Labrador,560576,NL
+1996,Nova Scotia,930826,NS
+1996,Ontario,11065044,ON
+1996,Quebec,7243693,QC
+1996,Saskatchewan,1018106,SK
+1996,Yukon,31272,YT
+1997,Alberta,2822523,AB
+1997,British Columbia,3939702,BC
+1997,Canada,29867572,CA
+1997,Manitoba,1135655,MB
+1997,New Brunswick,752385,NB
+1997,Newfoundland and Labrador,551774,NL
+1997,Nova Scotia,932330,NS
+1997,Ontario,11208193,ON
+1997,Quebec,7272062,QC
+1997,Saskatchewan,1017834,SK
+1997,Yukon,31661,YT
+1998,Alberta,2887726,AB
+1998,British Columbia,3981074,BC
+1998,Canada,30123874,CA
+1998,Manitoba,1136941,MB
+1998,New Brunswick,751072,NB
+1998,Newfoundland and Labrador,541500,NL
+1998,Nova Scotia,932290,NS
+1998,Ontario,11347200,ON
+1998,Quebec,7294436,QC
+1998,Saskatchewan,1017422,SK
+1998,Yukon,31214,YT
+1999,Alberta,2945712,AB
+1999,British Columbia,4007763,BC
+1999,Canada,30367051,CA
+1999,Manitoba,1141378,MB
+1999,New Brunswick,750362,NB
+1999,Newfoundland and Labrador,534147,NL
+1999,Nova Scotia,933496,NS
+1999,Ontario,11484167,ON
+1999,Quebec,7320816,QC
+1999,Saskatchewan,1014926,SK
+1999,Yukon,30686,YT
+2000,Alberta,2996032,AB
+2000,British Columbia,4037128,BC
+2000,Canada,30647400,CA
+2000,Manitoba,1146449,MB
+2000,New Brunswick,750524,NB
+2000,Newfoundland and Labrador,529012,NL
+2000,Nova Scotia,934291,NS
+2000,Ontario,11657472,ON
+2000,Quebec,7353293,QC
+2000,Saskatchewan,1008478,SK
+2000,Yukon,30400,YT
+2001,Alberta,3051622,AB
+2001,British Columbia,4070963,BC
+2001,Canada,30971291,CA
+2001,Manitoba,1150434,MB
+2001,New Brunswick,749656,NB
+2001,Newfoundland and Labrador,523040,NL
+2001,Nova Scotia,933043,NS
+2001,Ontario,11864577,ON
+2001,Quebec,7391230,QC
+2001,Saskatchewan,1001165,SK
+2001,Yukon,30128,YT
+2002,Alberta,3118802,AB
+2002,British Columbia,4097537,BC
+2002,Canada,31307864,CA
+2002,Manitoba,1155380,MB
+2002,New Brunswick,749052,NB
+2002,Newfoundland and Labrador,520097,NL
+2002,Nova Scotia,934763,NS
+2002,Ontario,12062059,ON
+2002,Quebec,7435487,QC
+2002,Saskatchewan,997428,SK
+2002,Yukon,30227,YT
+2003,Alberta,3176504,AB
+2003,British Columbia,4121032,BC
+2003,Canada,31601840,CA
+2003,Manitoba,1162078,MB
+2003,New Brunswick,749356,NB
+2003,Newfoundland and Labrador,518746,NL
+2003,Nova Scotia,936924,NS
+2003,Ontario,12220929,ON
+2003,Quebec,7480399,QC
+2003,Saskatchewan,996270,SK
+2003,Yukon,30790,YT
+2004,Alberta,3233188,AB
+2004,British Columbia,4152311,BC
+2004,Canada,31899360,CA
+2004,Manitoba,1171468,MB
+2004,New Brunswick,749301,NB
+2004,Newfoundland and Labrador,517701,NL
+2004,Nova Scotia,939291,NS
+2004,Ontario,12367225,ON
+2004,Quebec,7529847,QC
+2004,Saskatchewan,997002,SK
+2004,Yukon,31466,YT
+2005,Alberta,3310477,AB
+2005,British Columbia,4191434,BC
+2005,Canada,32202906,CA
+2005,Manitoba,1177669,MB
+2005,New Brunswick,748359,NB
+2005,Newfoundland and Labrador,515027,NL
+2005,Nova Scotia,938469,NS
+2005,Ontario,12506784,ON
+2005,Quebec,7576800,QC
+2005,Saskatchewan,994406,SK
+2005,Yukon,31915,YT
+2006,Alberta,3411010,AB
+2006,British Columbia,4236596,BC
+2006,Canada,32529278,CA
+2006,Manitoba,1182271,MB
+2006,New Brunswick,745979,NB
+2006,Newfoundland and Labrador,511108,NL
+2006,Nova Scotia,937681,NS
+2006,Ontario,12642187,ON
+2006,Quebec,7626126,QC
+2006,Saskatchewan,992287,SK
+2006,Yukon,32224,YT
+2007,Alberta,3502798,AB
+2007,British Columbia,4286277,BC
+2007,Canada,32848654,CA
+2007,Manitoba,1188012,MB
+2007,New Brunswick,745337,NB
+2007,Newfoundland and Labrador,509690,NL
+2007,Nova Scotia,935464,NS
+2007,Ontario,12750762,ON
+2007,Quebec,7685039,QC
+2007,Saskatchewan,1000522,SK
+2007,Yukon,32452,YT
+2008,Alberta,3582868,AB
+2008,British Columbia,4342957,BC
+2008,Canada,33199483,CA
+2008,Manitoba,1196342,MB
+2008,New Brunswick,746864,NB
+2008,Newfoundland and Labrador,511806,NL
+2008,Nova Scotia,936079,NS
+2008,Ontario,12866628,ON
+2008,Quebec,7753266,QC
+2008,Saskatchewan,1015902,SK
+2008,Yukon,33024,YT
+2009,Alberta,3667767,AB
+2009,British Columbia,4404782,BC
+2009,Canada,33582177,CA
+2009,Manitoba,1206538,MB
+2009,New Brunswick,749640,NB
+2009,Newfoundland and Labrador,516158,NL
+2009,Nova Scotia,938440,NS
+2009,Ontario,12984262,ON
+2009,Quebec,7833114,QC
+2009,Saskatchewan,1032532,SK
+2009,Yukon,33687,YT
+2010,Alberta,3724157,AB
+2010,British Columbia,4461068,BC
+2010,Canada,33959478,CA
+2010,Manitoba,1219001,MB
+2010,New Brunswick,752656,NB
+2010,Newfoundland and Labrador,521584,NL
+2010,Nova Scotia,942048,NS
+2010,Ontario,13118704,ON
+2010,Quebec,7918616,QC
+2010,Saskatchewan,1049311,SK
+2010,Yukon,34410,YT
+2011,Alberta,3778993,AB
+2011,British Columbia,4500944,BC
+2011,Canada,34298530,CA
+2011,Manitoba,1231753,MB
+2011,New Brunswick,755354,NB
+2011,Newfoundland and Labrador,524690,NL
+2011,Nova Scotia,944186,NS
+2011,Ontario,13248544,ON
+2011,Quebec,7993804,QC
+2011,Saskatchewan,1064016,SK
+2011,Yukon,35182,YT
+2012,Alberta,3859303,AB
+2012,British Columbia,4564452,BC
+2012,Canada,34664148,CA
+2012,Manitoba,1247151,MB
+2012,New Brunswick,757648,NB
+2012,Newfoundland and Labrador,526241,NL
+2012,Nova Scotia,943304,NS
+2012,Ontario,13376112,ON
+2012,Quebec,8050860,QC
+2012,Saskatchewan,1080479,SK
+2012,Yukon,35988,YT
+2013,Alberta,3962294,AB
+2013,British Columbia,4629485,BC
+2013,Canada,35032238,CA
+2013,Manitoba,1261768,MB
+2013,New Brunswick,758130,NB
+2013,Newfoundland and Labrador,527304,NL
+2013,Nova Scotia,940486,NS
+2013,Ontario,13496707,ON
+2013,Quebec,8100324,QC
+2013,Saskatchewan,1096497,SK
+2013,Yukon,36345,YT
+2014,Alberta,4066082,AB
+2014,British Columbia,4704528,BC
+2014,Canada,35389234,CA
+2014,Manitoba,1275546,MB
+2014,New Brunswick,758783,NB
+2014,Newfoundland and Labrador,527904,NL
+2014,Nova Scotia,938316,NS
+2014,Ontario,13606394,ON
+2014,Quebec,8140808,QC
+2014,Saskatchewan,1110323,SK
+2014,Yukon,36817,YT
+2015,Alberta,4138209,AB
+2015,British Columbia,4769094,BC
+2015,Canada,35676466,CA
+2015,Manitoba,1290665,MB
+2015,New Brunswick,759262,NB
+2015,Newfoundland and Labrador,528303,NL
+2015,Nova Scotia,937289,NS
+2015,Ontario,13698942,ON
+2015,Quebec,8171490,QC
+2015,Saskatchewan,1120668,SK
+2015,Yukon,37463,YT
+2016,Alberta,4189192,AB
+2016,British Columbia,4846628,BC
+2016,Canada,36052529,CA
+2016,Manitoba,1311169,MB
+2016,New Brunswick,762784,NB
+2016,Newfoundland and Labrador,529485,NL
+2016,Nova Scotia,942263,NS
+2016,Ontario,13853924,ON
+2016,Quebec,8217370,QC
+2016,Saskatchewan,1133608,SK
+2016,Yukon,38264,YT
+2017,Alberta,4232820,AB
+2017,British Columbia,4925006,BC
+2017,Canada,36494340,CA
+2017,Manitoba,1331885,MB
+2017,New Brunswick,766049,NB
+2017,Newfoundland and Labrador,529942,NL
+2017,Nova Scotia,951050,NS
+2017,Ontario,14056827,ON
+2017,Quebec,8284231,QC
+2017,Saskatchewan,1145931,SK
+2017,Yukon,39287,YT
+2018,Alberta,4286099,AB
+2018,British Columbia,5009884,BC
+2018,Canada,37009339,CA
+2018,Manitoba,1350414,MB
+2018,New Brunswick,770036,NB
+2018,Newfoundland and Labrador,528999,NL
+2018,Nova Scotia,961061,NS
+2018,Ontario,14297687,ON
+2018,Quebec,8374735,QC
+2018,Saskatchewan,1155438,SK
+2018,Yukon,40212,YT
+2019,Alberta,4348515,AB
+2019,British Columbia,5100179,BC
+2019,Canada,37555214,CA
+2019,Manitoba,1367580,MB
+2019,New Brunswick,776408,NB
+2019,Newfoundland and Labrador,528101,NL
+2019,Nova Scotia,974449,NS
+2019,Ontario,14545972,ON
+2019,Quebec,8470681,QC
+2019,Saskatchewan,1163702,SK
+2019,Yukon,41036,YT
+2020,Alberta,4404480,AB
+2020,British Columbia,5169146,BC
+2020,Canada,37997798,CA
+2020,Manitoba,1379626,MB
+2020,New Brunswick,782703,NB
+2020,Newfoundland and Labrador,527224,NL
+2020,Nova Scotia,987164,NS
+2020,Ontario,14747480,ON
+2020,Quebec,8547809,QC
+2020,Saskatchewan,1167953,SK
+2020,Yukon,41845,YT
+2021,Alberta,4431360,AB
+2021,British Columbia,5218564,BC
+2021,Canada,38221486,CA
+2021,Manitoba,1390138,MB
+2021,New Brunswick,789622,NB
+2021,Newfoundland and Labrador,526862,NL
+2021,Nova Scotia,997659,NS
+2021,Ontario,14840405,ON
+2021,Quebec,8570648,QC
+2021,Saskatchewan,1167640,SK
+2021,Yukon,42672,YT
+2022,Alberta,4503729,AB
+2022,British Columbia,5341279,BC
+2022,Canada,38865973,CA
+2022,Manitoba,1410050,MB
+2022,New Brunswick,806726,NB
+2022,Newfoundland and Labrador,530679,NL
+2022,Nova Scotia,1021422,NS
+2022,Ontario,15117224,ON
+2022,Quebec,8661918,QC
+2022,Saskatchewan,1177684,SK
+2022,Yukon,43654,YT
+2023,Alberta,4666165,AB
+2023,British Columbia,5511694,BC
+2023,Canada,39968532,CA
+2023,Manitoba,1449197,MB
+2023,New Brunswick,829690,NB
+2023,Newfoundland and Labrador,537973,NL
+2023,Nova Scotia,1052025,NS
+2023,Ontario,15580514,ON
+2023,Quebec,8831660,QC
+2023,Saskatchewan,1206390,SK
+2023,Yukon,45141,YT
+2024,Alberta,4863681,AB
+2024,British Columbia,5678218,BC
+2024,Canada,41144156,CA
+2024,Manitoba,1488821,MB
+2024,New Brunswick,851334,NB
+2024,Newfoundland and Labrador,544022,NL
+2024,Nova Scotia,1073917,NS
+2024,Ontario,16068470,ON
+2024,Quebec,9028989,QC
+2024,Saskatchewan,1236618,SK
+2024,Yukon,46485,YT

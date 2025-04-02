@@ -1,0 +1,21 @@
+.major-cities-weather {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+
+.currentWeather {
+    font-size: 18px;
+}
+
+.currentDetails {
+    display:flex;
+    gap:1rem;
+    justify-content: center;
+}
+
+.forecast {
+    display:flex;
+    justify-content: center;
+}
