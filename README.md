@@ -74,3 +74,9 @@ The `public/` folder includes:
    ```bash
    npm run dev
    ```
+
+## Github Page Deployment
+
+https://juanweih0424.github.io/SFU-Capstone-Clean/
+
+# Note: API key has expired and is now free trial so 7-day forecasting becomes 3-day
